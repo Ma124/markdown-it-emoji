@@ -1,8 +1,7 @@
 # markdown-it-emoji
 
-[![Build Status](https://img.shields.io/travis/markdown-it/markdown-it-emoji/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it-emoji)
-[![NPM version](https://img.shields.io/npm/v/markdown-it-emoji.svg?style=flat)](https://www.npmjs.org/package/markdown-it-emoji)
-[![Coverage Status](https://coveralls.io/repos/markdown-it/markdown-it-emoji/badge.svg?branch=master&service=github)](https://coveralls.io/github/markdown-it/markdown-it-emoji?branch=master)
+[![Build Status](https://img.shields.io/travis/Ma124/markdown-it-emoji/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it-emoji)
+[![Coverage Status](https://coveralls.io/repos/Ma124/markdown-it-emoji/badge.svg?branch=master&service=github)](https://coveralls.io/github/markdown-it/markdown-it-emoji?branch=master)
 
 > Plugin for [markdown-it](https://github.com/markdown-it/markdown-it) markdown parser, adding emoji & emoticon syntax support.
 
@@ -11,9 +10,9 @@ __v1.+ requires `markdown-it` v4.+, see changelog.__
 Two versions:
 
 - __Full__ (default), with all github supported emojis.
-- [Light](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/light.json), with only well-supported unicode emojis and reduced size.
+- [Light](https://github.com/Ma124/markdown-it-emoji/blob/master/lib/data/light.json), with only well-supported unicode emojis and reduced size.
 
-Also supports emoticons [shortcuts](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/shortcuts.js) like `:)`, `:-(`, and others. See the full list in the link above.
+Also supports emoticons [shortcuts](https://github.com/Ma124/markdown-it-emoji/blob/master/lib/data/shortcuts.js) like `:)`, `:-(`, and others. See the full list in the link above.
 
 
 ## Install
@@ -70,4 +69,4 @@ style:
 
 ## License
 
-[MIT](https://github.com/markdown-it/markdown-it-emoji/blob/master/LICENSE)
+[MIT](https://github.com/Ma124/markdown-it-emoji/blob/master/LICENSE)
