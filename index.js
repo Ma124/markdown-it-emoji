@@ -3,7 +3,6 @@
 
 var emojies_defs      = require('./lib/data/full.json');
 var emojies_shortcuts = require('./lib/data/shortcuts');
-var emoji_html        = require('./lib/render');
 var emoji_replace     = require('./lib/replace');
 var normalize_opts    = require('./lib/normalize_opts');
 var twemoji           = null;
